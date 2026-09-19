@@ -81,3 +81,9 @@ Automation triggers activate when new files appear in these subfolders, allowing
 ## 🏁 Goal
 To maintain a clean, structured, automation‑friendly library of all creative output — enabling your AI content factory to run smoothly, scale efficiently, and stay organized.
 
+/assets
+   /daily
+   /weekly
+   /videos
+   /images
+   /audio
